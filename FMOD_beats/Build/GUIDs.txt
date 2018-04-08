@@ -1,0 +1,7 @@
+{4f725b70-96e9-4e48-8ea1-1094750c9797} event:/HipHop_Track1_Bass
+{80e05c54-0ee6-46fe-9ac6-59df07963c64} event:/HipHop_Track1_Chords
+{0633af33-bf82-457c-a9a3-2db2b944478d} event:/HipHop_Track1_Drums
+{4992b412-e427-40f1-b422-9d6cf6d64cd3} event:/HipHop_Track1_Strings
+{73da1838-e181-4b16-aa25-6f1f34782117} bus:/
+{7ab8d481-51ed-45ed-b672-731b689257eb} bus:/Reverb
+{c1526e92-d5ca-4ce4-b200-4517d9aaf7d0} bank:/Master Bank
