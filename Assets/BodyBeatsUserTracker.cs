@@ -20,7 +20,7 @@ public class BodyBeatsUserTracker : MonoBehaviour
     void Update () {
 
 
-        print(manager.GetBodyCount());
+        //print(manager.GetBodyCount());
 		
 	}
 }
