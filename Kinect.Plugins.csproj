@@ -485,6 +485,7 @@
     <None Include="Assets\Plugins\Android\Assets\OSIG_Readme.txt" />
     <None Include="Assets\Plugins\FMOD\LICENSE.TXT" />
     <None Include="Assets\Plugins\UWP\Attribution.txt" />
+    <None Include="Assets\PolygonCity\Change_Log.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />

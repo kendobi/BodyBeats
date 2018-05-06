@@ -24,6 +24,7 @@ public class DetectMovement : MonoBehaviour {
 	void CheckMovement () {
 
         float currentXpos = transform.position.x;
+        float currentYpos = transform.position.y;
         float movementspeed = Mathf.Abs(oldXpos - currentXpos);
 
 
@@ -33,10 +34,10 @@ public class DetectMovement : MonoBehaviour {
             track1.SetParameter("VolIn", 1);
         }
         else track1.SetParameter("VolIn", 0);
-        
 
-        //Debug.Log(movementspeed);
-        print(currentXpos);
+        track1.SetParameter("Filter", (currentYpos - 0.5f));
+
+        //print(currentYpos);
 
         oldXpos = currentXpos;
 		
