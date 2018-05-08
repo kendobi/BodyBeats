@@ -10,9 +10,11 @@ public class DetectMovement : MonoBehaviour {
     public float sensitivity = 0.1f;
     public string trackname = "Drums";
     FMODUnity.StudioEventEmitter track1;
+    public GameObject FX1;
+    public GameObject FX2;
 
-	// Use this for initialization
-	void Start () {
+    // Use this for initialization
+    void Start () {
         oldXpos = transform.position.x;
         var target = GameObject.Find(trackname);
         track1 = target.GetComponent<FMODUnity.StudioEventEmitter>();
@@ -32,8 +34,16 @@ public class DetectMovement : MonoBehaviour {
         {
             //print("moving!");
             track1.SetParameter("VolIn", 1);
+            FX1.SetActive(true);
+            FX2.SetActive(true);
         }
-        else track1.SetParameter("VolIn", 0);
+        else
+        {
+            track1.SetParameter("VolIn", 0);
+            FX1.SetActive(false);
+            FX2.SetActive(false);
+
+        }
 
         track1.SetParameter("Filter", (currentYpos - 0.5f));
 
