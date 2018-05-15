@@ -1,9 +1,10 @@
+{3cf7847c-b955-4410-b0bf-218bb56e406a} event:/HipHop_Track1_Ambience
+{b6031097-1cc2-4a6c-9e73-9f536fe1a170} event:/HipHop_Track1_Bass
+{2cad81d5-bd76-486a-9bd1-1e0b2c2e5d95} event:/HipHop_Track1_Chords
+{0633af33-bf82-457c-a9a3-2db2b944478d} event:/HipHop_Track1_Drums
+{ad363d5d-7262-4182-b781-bc89ec51b48e} event:/HipHop_Track1_Keys
 {43f8e1a4-71d7-473a-af36-240179b20edd} event:/HipHop_Track1_Spice
 {3adaa2df-2eda-4a4c-b7a4-f62bb74c565c} event:/HipHop_Track1_Strings
-{ad363d5d-7262-4182-b781-bc89ec51b48e} event:/HipHop_Track1_Keys
-{2cad81d5-bd76-486a-9bd1-1e0b2c2e5d95} event:/HipHop_Track1_Chords
-{b6031097-1cc2-4a6c-9e73-9f536fe1a170} event:/HipHop_Track1_Bass
-{0633af33-bf82-457c-a9a3-2db2b944478d} event:/HipHop_Track1_Drums
 {73da1838-e181-4b16-aa25-6f1f34782117} bus:/
 {7ab8d481-51ed-45ed-b672-731b689257eb} bus:/Reverb
 {c1526e92-d5ca-4ce4-b200-4517d9aaf7d0} bank:/Master Bank

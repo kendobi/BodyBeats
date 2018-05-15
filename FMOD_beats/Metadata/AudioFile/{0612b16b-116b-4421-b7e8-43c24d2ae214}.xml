@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{0612b16b-116b-4421-b7e8-43c24d2ae214}">
+        <property name="assetPath">
+            <value>breaks4 3-FSL_116_F#_Smooth_Chrd_Syn.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>17.454557823129253</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{edca6580-d4eb-4440-9b99-9ce25247dec3}</destination>
+        </relationship>
+    </object>
+</objects>

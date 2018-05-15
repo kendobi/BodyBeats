@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{81256fe6-1649-44b3-8a7b-5cea29248388}">
+        <property name="assetPath">
+            <value>breaks5 5-FSL_116_Gb_2Funky_Chord_Syn.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>17.451655328798186</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{edca6580-d4eb-4440-9b99-9ce25247dec3}</destination>
+        </relationship>
+    </object>
+</objects>

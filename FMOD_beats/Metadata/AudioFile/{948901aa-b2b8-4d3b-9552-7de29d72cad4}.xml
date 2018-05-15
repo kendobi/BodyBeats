@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{948901aa-b2b8-4d3b-9552-7de29d72cad4}">
+        <property name="assetPath">
+            <value>breaks4 2-FSL_116_Gb_2Funky_80s_Syn_Bass.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>17.454557823129253</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{edca6580-d4eb-4440-9b99-9ce25247dec3}</destination>
+        </relationship>
+    </object>
+</objects>

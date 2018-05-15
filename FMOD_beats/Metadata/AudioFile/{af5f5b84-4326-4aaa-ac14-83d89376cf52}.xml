@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{af5f5b84-4326-4aaa-ac14-83d89376cf52}">
+        <property name="assetPath">
+            <value>breaks3 4-VVS_115_D_Keys_Glass_Rhodes.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>34.909092970521542</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{edca6580-d4eb-4440-9b99-9ce25247dec3}</destination>
+        </relationship>
+    </object>
+</objects>

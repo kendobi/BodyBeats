@@ -2,18 +2,8 @@
 <objects serializationModel="Studio.01.10.00">
     <object class="Event" id="{b6031097-1cc2-4a6c-9e73-9f536fe1a170}">
         <property name="uiMaxMarkerTracksVisible">
-            <value>21</value>
+            <value>27</value>
         </property>
-        <relationship name="selectables">
-            <destination>{e028e0e5-ebaa-4b0a-922d-e0f15b31de72}</destination>
-            <destination>{8b874e99-dee1-40b6-a306-936b847acc39}</destination>
-            <destination>{855be71c-d002-4a10-b80f-736171415ccb}</destination>
-            <destination>{29d02b9c-1cff-4148-9c64-f1c820891d4c}</destination>
-            <destination>{57e9d7ad-232c-4a15-8531-5e924b19d7bd}</destination>
-            <destination>{0b3fe0e7-5ce6-4e64-834b-ee33529ea875}</destination>
-            <destination>{aac3570d-0f59-42f3-aff9-f2b79cff0a42}</destination>
-            <destination>{c897947e-a7d6-40c1-9bde-36977f9b47f4}</destination>
-        </relationship>
         <relationship name="uiLastParameterSelection">
             <destination>{fde742af-7cfd-41b2-9be5-f909c37e3463}</destination>
         </relationship>
@@ -21,11 +11,12 @@
     <object class="MasterTrack" id="{1bbe9fce-5da8-4a15-b68b-de23bf9079b8}"/>
     <object class="MixerInput" id="{a7a1428e-519b-48da-b15e-2ee0354414cb}"/>
     <object class="EventAutomatableProperties" id="{baaac52b-7ffe-4390-93e2-91fc4bb6ffe4}"/>
-    <object class="MarkerTrack" id="{feed4147-1aa8-4521-8d09-39566b0d67e9}"/>
     <object class="MarkerTrack" id="{1c69cca1-7da5-4299-96bf-9525dd49b856}"/>
     <object class="MarkerTrack" id="{65ed236f-e601-4d19-aaab-24e6d6e68d0a}"/>
     <object class="MarkerTrack" id="{d6d68dd6-1953-457f-b0e5-339e311f837b}"/>
     <object class="MarkerTrack" id="{29da1006-ff84-45d0-bee6-bacfa55638e6}"/>
+    <object class="MarkerTrack" id="{4d1362ad-bb41-41aa-aab1-0876059c9b7c}"/>
+    <object class="MarkerTrack" id="{1ac46f94-076d-4521-ab80-595178aa071c}"/>
     <object class="GroupTrack" id="{6a391419-dc5a-4577-9924-38a6c4fd55c1}"/>
     <object class="GroupTrack" id="{bf0ad2be-29fa-4fc0-aaba-1efd5ccd44a7}"/>
     <object class="Timeline" id="{fde742af-7cfd-41b2-9be5-f909c37e3463}">
